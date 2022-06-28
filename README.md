@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ![Header](https://github.com/A1suluu/A1suluu/blob/main/assets/Baiyshova%20Aisuluu1.png)
 
-About me
+## I'm junnior Frontend Developer and React Developer"
 
 Latest projects
 
