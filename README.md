@@ -25,12 +25,12 @@ Latest projects
 
 ![REACT](https://img.shields.io/badge/-REACT-073b4c?style=for-the-badge&logo=REACT)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-073b4c?style=for-the-badge&logo=JavaScript)
-![C++](https://img.shields.io/badge/-C%2b%2b%-073b4c?style=for-the-badge&logo=C%2b%2b%)
+![C++](https://img.shields.io/badge/-C++-073b4c?style=for-the-badge&logo=C++)
 ![HTML](https://img.shields.io/badge/-HTML-073b4c?style=for-the-badge)
 ![CSS](https://img.shields.io/badge/-CSS-073b4c?style=for-the-badge)
 
 ## Follow me
 
-![Instagram](https://img.shields.io/badge/-Instagram-2ec4b6?style=for-the-badge&logo=Instagram)
-![Telegram](https://img.shields.io/badge/-Telegram-2ec4b6?style=for-the-badge&logo=Telegram)
+![Instagram](https://img.shields.io/badge/-Instagram-5e548e?style=for-the-badge&logo=Instagram)(https://www.instagram.com/justtaagirll/)
+![Telegram](https://img.shields.io/badge/-Telegram-5e548e?style=for-the-badge&logo=Telegram)(https://t.me/aisuluuuuu)
 
