@@ -7,6 +7,11 @@
 [![Aviasatuu](https://img.shields.io/badge/-Aviasatuu-4cc9f0?style=for-the-badge)](https://github.com/A1suluu/erkindikArt)
 [![Erkindik](https://img.shields.io/badge/-Erkindik-4cc9f0?style=for-the-badge)](https://www.instagram.com/justtaagirll/)
 [![Delivery](https://img.shields.io/badge/-Delivery-4cc9f0?style=for-the-badge)](https://www.instagram.com/justtaagirll/)
+[![DinoGame](https://img.shields.io/badge/-Delivery-4cc9f0?style=for-the-badge)](https://www.instagram.com/justtaagirll/)
+[![NewsSite](https://img.shields.io/badge/-Delivery-4cc9f0?style=for-the-badge)](https://www.instagram.com/justtaagirll/)
+[![ToDO](https://img.shields.io/badge/-Delivery-4cc9f0?style=for-the-badge)](https://www.instagram.com/justtaagirll)
+[![Kyrgyzstan site](https://img.shields.io/badge/-Delivery-4cc9f0?style=for-the-badge)](https://www.instagram.com/justtaagirll)
+
 
 
 ### Languages and Tools
