@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Header](https://github.com/A1suluu/A1suluu/blob/main/assets/Baiyshova%20Aisuluu.png)
+![Header](https://github.com/A1suluu/A1suluu/blob/main/assets/Baiyshova%20Aisuluu1.png)
 
 About me
 
