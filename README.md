@@ -23,7 +23,10 @@ Latest projects
 
 ## Languages and Tools
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-073b4c?style=for-the-badge&logo=JavaScript)![HTML](https://img.shields.io/badge/-HTML-073b4c?style=for-the-badge&logo=HTML)
-![CSS](https://img.shields.io/badge/-CSS-073b4c?style=for-the-badge&logo=CSS)
 ![REACT](https://img.shields.io/badge/-REACT-073b4c?style=for-the-badge&logo=REACT)
+![JavaScript](https://img.shields.io/badge/-JavaScript-073b4c?style=for-the-badge&logo=JavaScript)
+![C++](https://img.shields.io/badge/-C++-073b4c?style=for-the-badge&logo=C++)
+![HTML](https://img.shields.io/badge/-HTML-073b4c?style=for-the-badge)
+![CSS](https://img.shields.io/badge/-CSS-073b4c?style=for-the-badge)
+
 
