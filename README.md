@@ -5,13 +5,11 @@
 
 ### Latest projects
 [![Aviasatuu](https://img.shields.io/badge/-Aviasatuu-4cc9f0?style=for-the-badge)](https://github.com/A1suluu/erkindikArt)
-[![Erkindik](https://img.shields.io/badge/-Erkindik-4cc9f0?style=for-the-badge)](https://www.instagram.com/justtaagirll/)
-[![Delivery](https://img.shields.io/badge/-Delivery-4cc9f0?style=for-the-badge)](https://www.instagram.com/justtaagirll/)
-[![DinoGame](https://img.shields.io/badge/-DinoGame-4cc9f0?style=for-the-badge)](https://www.instagram.com/justtaagirll/)
-[![NewsSite](https://img.shields.io/badge/-NewsSite-4cc9f0?style=for-the-badge)](https://www.instagram.com/justtaagirll/)
-[![ToDo](https://img.shields.io/badge/-ToDo-4cc9f0?style=for-the-badge)](https://www.instagram.com/justtaagirll)
-[![Kyrgyzstan site](https://img.shields.io/badge/-Kyrgyzstan site-4cc9f0?style=for-the-badge)](https://www.instagram.com/justtaagirll)
-
+[![Erkindik](https://img.shields.io/badge/-Erkindik-4cc9f0?style=for-the-badge)](https://github.com/A1suluu/Erkindik.git)
+[![Delivery](https://img.shields.io/badge/-Delivery-4cc9f0?style=for-the-badge)](https://github.com/A1suluu/Delivery.git)
+[![DinoGame](https://img.shields.io/badge/-DinoGame-4cc9f0?style=for-the-badge)](https://github.com/A1suluu/my-work/tree/main/dinoGame)
+[![NewsSite](https://img.shields.io/badge/-NewsSite-4cc9f0?style=for-the-badge)](https://github.com/A1suluu/my-work/tree/main/reviro)
+[![Kyrgyzstan site](https://img.shields.io/badge/-KyrgyzstanSite-4cc9f0?style=for-the-badge)](https://github.com/A1suluu/Kyrgyzstan-site)
 
 
 ### Languages and Tools
